@@ -1,0 +1,32 @@
+﻿  Phone.cpp
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Phone.cpp(48,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Phone.cpp(118,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab8-11.cpp
+  Tests.cpp
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(12,34): error C2661: 'Phone::Phone': no overloaded function takes 3 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(27,33): error C2661: 'Phone::Phone': no overloaded function takes 3 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(28,33): error C2661: 'Phone::Phone': no overloaded function takes 3 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(29,33): error C2661: 'Phone::Phone': no overloaded function takes 3 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(30,33): error C2661: 'Phone::Phone': no overloaded function takes 3 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(51,33): error C2661: 'Phone::Phone': no overloaded function takes 3 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(52,28): error C2661: 'Phone::Phone': no overloaded function takes 3 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(58,26): error C2661: 'Phone::Phone': no overloaded function takes 3 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(67,37): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Phone'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(67,37): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(71,2): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Phone'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(71,2): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(72,2): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Phone'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(72,2): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(75,40): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Phone'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(75,40): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(83,40): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Phone'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(83,40): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(83,64): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Phone'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(83,64): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(83,65): error C2660: 'RepositoryFile<Phone>::updateElem': function does not take 1 arguments
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\RepositoryFile.h(20,7): message : see declaration of 'RepositoryFile<Phone>::updateElem'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(84,2): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Phone'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(84,2): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(87,2): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Phone'
+C:\Users\Andreea\source\repos\Lab8-11\Lab8-11\Tests.cpp(87,2): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+  Generating Code...
