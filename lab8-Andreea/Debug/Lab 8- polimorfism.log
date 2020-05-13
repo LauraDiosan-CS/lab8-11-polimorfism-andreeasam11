@@ -1,0 +1,56 @@
+﻿  App.cpp
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileHTML.h(58,13): warning C4101: 'e': unreferenced local variable
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileHTML.h(42): message : while compiling class template member function 'void RepositoryFileHTML<Serie *>::loadFromFile(const char *)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileHTML.h(37): message : see reference to function template instantiation 'void RepositoryFileHTML<Serie *>::loadFromFile(const char *)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileHTML.h(34): message : while compiling class template member function 'RepositoryFileHTML<Serie *>::RepositoryFileHTML(const char *,Serializer<Serie *> *)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\App.cpp(30): message : see reference to function template instantiation 'RepositoryFileHTML<Serie *>::RepositoryFileHTML(const char *,Serializer<Serie *> *)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\App.cpp(30): message : see reference to class template instantiation 'RepositoryFileHTML<Serie *>' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFile.h(63,13): warning C4101: 'e': unreferenced local variable
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFile.h(46): message : while compiling class template member function 'void RepositoryFile<User *>::loadFromFile(const char *,const char)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFile.h(41): message : see reference to function template instantiation 'void RepositoryFile<User *>::loadFromFile(const char *,const char)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFile.h(38): message : while compiling class template member function 'RepositoryFile<User *>::RepositoryFile(const char *,const char,Serializer<User *> *)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\App.cpp(31): message : see reference to function template instantiation 'RepositoryFile<User *>::RepositoryFile(const char *,const char,Serializer<User *> *)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\App.cpp(31): message : see reference to class template instantiation 'RepositoryFile<User *>' being compiled
+  Drone.cpp
+  Phone.cpp
+C:\Users\Andreea\3D Objects\lab8-Andreea\Phone.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andreea\3D Objects\lab8-Andreea\Phone.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andreea\3D Objects\lab8-Andreea\Phone.cpp(106,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andreea\3D Objects\lab8-Andreea\Phone.cpp(116,20): warning C4018: '<': signed/unsigned mismatch
+  PhoneValidator.cpp
+  Repository.cpp
+  RepositoryFile.cpp
+  Serie.cpp
+  SerieValidator.cpp
+  Service.cpp
+  Tests.cpp
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileCSV.h(59,13): warning C4101: 'e': unreferenced local variable
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileCSV.h(42): message : while compiling class template member function 'void RepositoryFileCSV<Serie *>::loadFromFile(const char *)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileCSV.h(37): message : see reference to function template instantiation 'void RepositoryFileCSV<Serie *>::loadFromFile(const char *)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileCSV.h(34): message : while compiling class template member function 'RepositoryFileCSV<Serie *>::RepositoryFileCSV(const char *,Serializer<Serie *> *)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\Tests.cpp(91): message : see reference to function template instantiation 'RepositoryFileCSV<Serie *>::RepositoryFileCSV(const char *,Serializer<Serie *> *)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\Tests.cpp(91): message : see reference to class template instantiation 'RepositoryFileCSV<Serie *>' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileHTML.h(58,13): warning C4101: 'e': unreferenced local variable
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileHTML.h(42): message : while compiling class template member function 'void RepositoryFileHTML<Serie *>::loadFromFile(const char *)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileHTML.h(37): message : see reference to function template instantiation 'void RepositoryFileHTML<Serie *>::loadFromFile(const char *)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFileHTML.h(34): message : while compiling class template member function 'RepositoryFileHTML<Serie *>::RepositoryFileHTML(const char *,Serializer<Serie *> *)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\Tests.cpp(120): message : see reference to function template instantiation 'RepositoryFileHTML<Serie *>::RepositoryFileHTML(const char *,Serializer<Serie *> *)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\Tests.cpp(120): message : see reference to class template instantiation 'RepositoryFileHTML<Serie *>' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFile.h(63,13): warning C4101: 'e': unreferenced local variable
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFile.h(46): message : while compiling class template member function 'void RepositoryFile<Serie *>::loadFromFile(const char *,const char)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFile.h(41): message : see reference to function template instantiation 'void RepositoryFile<Serie *>::loadFromFile(const char *,const char)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\RepositoryFile.h(38): message : while compiling class template member function 'RepositoryFile<Serie *>::RepositoryFile(const char *,const char,Serializer<Serie *> *)'
+C:\Users\Andreea\3D Objects\lab8-Andreea\Tests.cpp(150): message : see reference to function template instantiation 'RepositoryFile<Serie *>::RepositoryFile(const char *,const char,Serializer<Serie *> *)' being compiled
+C:\Users\Andreea\3D Objects\lab8-Andreea\Tests.cpp(150): message : see reference to class template instantiation 'RepositoryFile<Serie *>' being compiled
+  UI.cpp
+C:\Users\Andreea\3D Objects\lab8-Andreea\UI.cpp(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andreea\3D Objects\lab8-Andreea\UI.cpp(37,22): warning C4018: '<': signed/unsigned mismatch
+  User.cpp
+  Utile.cpp
+  Generating Code...
+C:\Users\Andreea\3D Objects\lab8-Andreea\Repository.h(134): warning C4715: 'RepositoryTemplate<Serie *>::getItemFromPos': not all control paths return a value
+C:\Users\Andreea\3D Objects\lab8-Andreea\SerializerSerie.h(32): warning C4715: 'SerializerSerie::fromString': not all control paths return a value
+C:\Users\Andreea\3D Objects\lab8-Andreea\Repository.h(134): warning C4715: 'RepositoryTemplate<Serie *>::getItemFromPos': not all control paths return a value
+C:\Users\Andreea\3D Objects\lab8-Andreea\Drone.cpp(72): warning C4715: 'Drone::operator=': not all control paths return a value
+C:\Users\Andreea\3D Objects\lab8-Andreea\SerializerSerie.h(32): warning C4715: 'SerializerSerie::fromString': not all control paths return a value
+  Lab 8- polimorfism.vcxproj -> C:\Users\Andreea\3D Objects\lab8-Andreea\Debug\Lab 8- polimorfism.exe

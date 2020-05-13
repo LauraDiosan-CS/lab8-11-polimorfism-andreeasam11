@@ -1,9 +1,0 @@
-Drona/Samsung/DronaS10/100/30
-Telefon/Samsung/GalaxyS10/200/rx100/rga234
-Drona/Samsung/DronaS10/100/30
-Telefon/Samsung/GalaxyS10/200/rx100/rga234
-Drona/Samsung/DronaS10/100/30
-Telefon/Samsung/GalaxyS10/200/rx100/rga234
-Drona/huawei/de45/40/20
-Telefon/asus/s45/30/orange/vodafone/telekom
-Drona/Xiaomi/A20/120/2

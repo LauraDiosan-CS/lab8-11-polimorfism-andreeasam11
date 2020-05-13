@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Serie">
+    <Position X="1.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAAAAEAEAAAAEABBRAAAAAQAAAQAAAgEBAIAAE=</HashCode>
+      <FileName>Serie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Phone">
+    <Position X="2.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAIAEAABAAAAAAAAAAAACAgMAAAAAA=</HashCode>
+      <FileName>Phone.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Drone">
+    <Position X="0.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAAAAAAAAEAABAAAAAAAAIAAAAAhEAAAABA=</HashCode>
+      <FileName>Drone.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="3.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAQAAABAEAIBQEAAAAAAAAAAAAAEgEQAIA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RepositoryTemplate&lt;T&gt;">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QABIQAAAAJAACAAAAAAAAAAAAAAAAAAAgAAABAIAAIA=</HashCode>
+      <FileName>Repository.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RepositoryFile&lt;T&gt;">
+    <Position X="5.75" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAABAAAAAAAAAQAAAgAAAAAAAAAMIQBAAEAAA=</HashCode>
+      <FileName>RepositoryFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Service">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAIABACAAAAEAAAAAAAICQAAAAAEAIAAAEAA=</HashCode>
+      <FileName>Service.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UI">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAgAAAAAAAAAAAAAAIAAAAAAAAAoAAAAAAEAI=</HashCode>
+      <FileName>UI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RepositoryFileCSV&lt;T&gt;">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAABAAAAAAAAAAAAAgAAAAAIAAAMAQBAAQAAA=</HashCode>
+      <FileName>RepositoryFileCSV.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RepositoryFileHTML&lt;T&gt;">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAABCAAAAAAAAAQAAgAAAAAAAAAMAQBAAAAAA=</HashCode>
+      <FileName>RepositoryFileHTML.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Serializer&lt;T&gt;">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQECAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serializer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SerializerSerie">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAQAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>SerializerSerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SerializerUser">
+    <Position X="14.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAQAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SerializerUser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SerieException">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SerieValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SerieValidator">
+    <Position X="15" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>SerieValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PhoneValidator">
+    <Position X="15" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>PhoneValidator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
